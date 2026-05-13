@@ -1,16 +1,15 @@
-## Hi there 👋
+# Network-Audit-Project
+Basic network analysis using Kali Linux and Nmap for learning purposes.
 
-<!--
-**YkiraIT/YkiraIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Goals
+- Understanding local network architecture.
+- Identifying active devices and open ports.
+- Improving documentation skills for IT projects.
 
-Here are some ideas to get you started:
+## Tools Used
+- Kali Linux (VMware)
+- Nmap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Status
+- [x] Network scanning
+- [ ] Security analysis report (Coming soon)
